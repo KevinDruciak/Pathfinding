@@ -1,4 +1,7 @@
 This was a simple homework assignment for a class that I made a visualization for.
+Many of the resource loading is done using local paths native to my computer. Should
+anyone try to run this on their own machine, simply rename the paths of the resources
+to your own local path. These resources are included in the repository.
 
 ------------------------------------------------------------
 JHU to Druid Lake
